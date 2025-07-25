@@ -1,18 +1,19 @@
-<h1 align="center">Hi 👋, I'm Jayani  Wathsala Jayasooriya</h1>
+<h1 align="center">Hi 👋, I'm Jayani Wathsala Jayasooriya</h1>
 <h3 align="center">Full-Stack Developer | Clean Code Advocate | Tech Explorer</h3>
 
+<!-- 🌐 Social Links -->
 <p align="center">
   <a href="https://github.com/Jayaniwathsala2002" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/github/181717" width="32" height="32" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/janu14/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" height="32" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/jayani.wathsala.jayasooriya" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="32" height="32" alt="Facebook" />
   </a>
   <a href="https://www.instagram.com/ms.jayani_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="32" height="32" alt="Instagram" />
   </a>
 </p>
 
@@ -26,34 +27,33 @@ I'm a committed and detail-oriented **Full-Stack Developer** with hands-on exper
 
 ### 🛠️ Tech Stack
 
-#### 👩‍💻 Languages & Frameworks  
+#### 👩‍💻 Languages & Frameworks
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=flat&logo=dotnet&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="32" height="32" title="HTML5" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" width="32" height="32" title="CSS3" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="32" height="32" title="JavaScript" />
+  <img src="https://cdn.simpleicons.org/flutter/02569B" width="32" height="32" title="Flutter" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="32" height="32" title="Python" />
+  <img src="https://cdn.simpleicons.org/java/007396" width="32" height="32" title="Java" />
+  <img src="https://cdn.simpleicons.org/csharp/512BD4" width="32" height="32" title="C#" />
+  <img src="https://cdn.simpleicons.org/dotnet/5C2D91" width="32" height="32" title="ASP.NET" />
 </p>
 
-#### 🗃️ Databases  
+#### 🗃️ Databases
 <p>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="32" height="32" title="SQL Server" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="32" height="32" title="MySQL" />
 </p>
 
-#### ⚙️ Tools & Platforms  
+#### ⚙️ Tools & Platforms
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=plastic&logo=visualstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/git/F05032" width="32" height="32" title="Git" />
+  <img src="https://cdn.simpleicons.org/github/181717" width="32" height="32" title="GitHub" />
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="32" height="32" title="VS Code" />
+  <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" width="32" height="32" title="Visual Studio" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="32" height="32" title="Postman" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="32" height="32" title="Figma" />
 </p>
-
 
 ---
 
