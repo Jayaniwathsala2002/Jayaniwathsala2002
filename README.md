@@ -1,159 +1,93 @@
-<h1 align="center" style="font-family: 'Georgia', serif; color: #4B4B4B;">
-  <span style="color:#a052d1; animation: glow 2s infinite alternate;">✨ Hi there!</span>
-  I'm Jayani Wathsala Jayasooriya 🧚‍♀️
-</h1>
-<h3 align="center" style="color: #666; font-style: italic;">
-  Full‑Stack Developer | Clean Code Advocate | UI Sorceress
-</h3>
+<h1 align="center">Jayani Wathsala Jayasooriya</h1>
+<h3 align="center">Full-Stack Developer | Software Engineer | Clean Architecture Enthusiast</h3>
 
-<!-- Animated Typing Subtitle -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&pause=1000&color=8A2BE2&center=true&width=500&lines=Crafting+clean+code+with+a+touch+of+magic..." alt="Typing SVG" />
+  <a href="https://github.com/Jayaniwathsala2002" target="_blank"><img src="https://cdn.simpleicons.org/github/181717" width="30" /></a>
+  <a href="https://www.linkedin.com/in/janu14/" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" /></a>
+  <a href="mailto:me.janu14@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" /></a>
+  <a href="https://www.instagram.com/ms.jayani_/" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" /></a>
 </p>
 
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #a075d1, #8A2BE2);">
+---
 
-<!-- Tech Icons with subtle hover zoom -->
-<style>
-@keyframes glow {
-  from { text-shadow: 0 0 5px #a052d1; }
-  to { text-shadow: 0 0 15px #d8bfd8; }
-}
-.tech-icon {
-  width: 48px;
-  margin: 8px;
-  transition: transform 0.3s ease;
-}
-.tech-icon:hover {
-  transform: scale(1.2);
-}
-section {
-  padding: 20px;
-  margin: 0 auto;
-  max-width: 800px;
-}
-.category-title {
-  font-size: 1.2em;
-  margin-top: 20px;
-  color: #4B0082;
-}
-</style>
+### 🧭 Summary
 
-<section>
+Experienced Full-Stack Developer with strong problem-solving skills and solid understanding of software engineering principles. Specialized in clean code, scalable systems, and intuitive UI/UX. Passionate about system architecture, backend engineering, and cross-platform app development.
 
-  <div align="center">
-    <h2 class="category-title">👩‍💻 Frontend & Languages</h2>
-    <p>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-           alt="HTML5" class="tech-icon" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-           alt="CSS3" class="tech-icon" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-           alt="JavaScript" class="tech-icon" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-           alt="TypeScript" class="tech-icon" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-           alt="React" class="tech-icon" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
-           alt="Angular" class="tech-icon" />
-    </p>
-  </div>
+---
 
-  <div align="center">
-    <h2 class="category-title">📱 Mobile & Cross-Platform</h2>
-    <p>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
-           alt="Flutter" class="tech-icon" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"
-           alt="Dart" class="tech-icon" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"
-           alt="Android" class="tech-icon" />
-    </p>
-  </div>
+### 🛠️ Core Technologies
 
-  <div align="center">
-    <h2 class="category-title">⚙️ Backend & API</h2>
-    <p>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"
-           alt=".NET Core" class="tech-icon" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
-           alt="C#" class="tech-icon" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-           alt="Node.js" class="tech-icon" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-           alt="Express" class="tech-icon" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"
-           alt="GraphQL" class="tech-icon" />
-    </p>
-  </div>
+#### Languages
+<p>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="30" title="JavaScript" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="30" title="TypeScript" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="30" title="Python" />
+  <img src="https://cdn.simpleicons.org/java/007396" width="30" title="Java" />
+  <img src="https://cdn.simpleicons.org/csharp/512BD4" width="30" title="C#" />
+</p>
 
-  <div align="center">
-    <h2 class="category-title">🗃️ Databases & Storage</h2>
-    <p>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-           alt="MySQL" class="tech-icon" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-           alt="PostgreSQL" class="tech-icon" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-           alt="MongoDB" class="tech-icon" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
-           alt="Firebase" class="tech-icon" />
-    </p>
-  </div>
+#### Frontend
+<p>
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="30" title="HTML5" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" width="30" title="CSS3" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="30" title="Bootstrap" />
+  <img src="https://cdn.simpleicons.org/flutter/02569B" width="30" title="Flutter" />
+</p>
 
-  <div align="center">
-    <h2 class="category-title">☁️ Cloud & DevOps</h2>
-    <p>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"
-           alt="Azure" class="tech-icon" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-           alt="Docker" class="tech-icon" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg"
-           alt="GitHub Actions" class="tech-icon" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg"
-           alt="Netlify" class="tech-icon" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg"
-           alt="Vercel" class="tech-icon" />
-    </p>
-  </div>
+#### Backend & APIs
+<p>
+  <img src="https://cdn.simpleicons.org/dotnet/5C2D91" width="30" title="ASP.NET Core" />
+  <img src="https://cdn.simpleicons.org/node.js/339933" width="30" title="Node.js" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="30" title="Postman" />
+</p>
 
-  <div align="center">
-    <h2 class="category-title">🎨 Productivity & Design</h2>
-    <p>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
-           alt="Figma" class="tech-icon" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"
-           alt="Postman" class="tech-icon" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"
-           alt="Jira" class="tech-icon" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"
-           alt="Slack" class="tech-icon" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"
-           alt="Trello" class="tech-icon" />
-    </p>
-  </div>
+#### Databases
+<p>
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="30" title="MySQL" />
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="30" title="SQL Server" />
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" width="30" title="SQLite" />
+</p>
 
-</section>
+#### Tools & IDEs
+<p>
+  <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" width="30" title="Visual Studio" />
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="30" title="VS Code" />
+  <img src="https://cdn.simpleicons.org/git/F05032" width="30" title="Git" />
+  <img src="https://cdn.simpleicons.org/github/181717" width="30" title="GitHub" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="30" title="Figma" />
+</p>
 
-<hr style="border: none; height: 1px; background: #ccc; margin-top: 40px;">
+---
 
-<section align="center">
-  <h2 style="color:#663399;">🌟 Current Focus & Ambitions</h2>
-  <p style="max-width:600px; color:#555;">
-    - Delivering clean, modular backend solutions with .NET Core and Node.js<br>
-    - Crafting engaging, responsive UIs with Flutter and React<br>
-    - Automating CI/CD pipelines via GitHub Actions and cloud deploys<br>
-    - Practicing test-driven development and architecture with style
-  </p>
-</section>
+### 🧠 Focus Areas
 
-<section align="center" style="margin-top:30px;">
-  <h2 style="color:#663399;">💌 Let's Connect</h2>
-  <p style="color:#444;">Email: <a href="mailto:me.janu14@gmail.com">me.janu14@gmail.com</a></p>
-  <p style="color:#444;">GitHub: <a href="https://github.com/Jayaniwathsala2002">Jayaniwathsala2002</a></p>
-  <p style="color:#444;">Portfolio: <a href="https://your-portfolio.com">your-portfolio.com</a></p>
-</section>
+- RESTful API Design and Integration  
+- Secure .NET Core Web APIs  
+- Real-time App Interfaces with Flutter  
+- Clean Architecture and Modular Design  
+- Performance Optimization  
+- CI/CD Practices (GitHub Actions, Azure Pipelines)
 
-<p align="center" style="margin-top:40px; font-style: italic; color:#888;">
-  “Magic happens where clean logic meets creative code.” 🧚‍♀️
+---
+
+### 📈 Current Goals
+
+- Master advanced .NET architecture (DDD, CQRS)  
+- Explore Docker and container-based deployments  
+- Improve test coverage and automation  
+- Enhance mobile responsiveness and accessibility
+
+---
+
+### 📬 Contact Me
+
+- 📧 Email: me.janu14@gmail.com  
+- 🌐 LinkedIn: [linkedin.com/in/janu14](https://www.linkedin.com/in/janu14/)  
+- 🐙 GitHub: [Jayaniwathsala2002](https://github.com/Jayaniwathsala2002)
+
+---
+
+<p align="center">
+  <em>“Great systems are built with clean code, discipline, and relentless learning.”</em>
 </p>
