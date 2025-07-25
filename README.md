@@ -46,13 +46,14 @@ I'm a committed and detail-oriented **Full-Stack Developer** with hands-on exper
 
 #### ⚙️ Tools & Platforms  
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=plastic&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white" />
 </p>
+
 
 ---
 
@@ -67,7 +68,7 @@ I'm a committed and detail-oriented **Full-Stack Developer** with hands-on exper
 
 ### 📫 Reach Me
 
-- 📧 Email: your.email@example.com  
+- 📧 Email: me.janu14@gmail.com  
 - 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)  
 - 🐙 GitHub: https://github.com/Jayaniwathsala2002
 
