@@ -69,7 +69,7 @@ I'm a committed and detail-oriented **Full-Stack Developer** with hands-on exper
 
 - 📧 Email: your.email@example.com  
 - 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)  
-- 🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)
+- 🐙 GitHub: https://github.com/Jayaniwathsala2002
 
 ---
 
