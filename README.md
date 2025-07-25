@@ -4,16 +4,16 @@
 <!-- 🌐 Social Links -->
 <p align="center">
   <a href="https://github.com/Jayaniwathsala2002" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/181717" width="32" height="32" alt="GitHub" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/janu14/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" height="32" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
   </a>
   <a href="https://www.facebook.com/jayani.wathsala.jayasooriya" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="32" height="32" alt="Facebook" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" alt="Facebook" width="40" />
   </a>
   <a href="https://www.instagram.com/ms.jayani_/" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="32" height="32" alt="Instagram" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" />
   </a>
 </p>
 
@@ -27,32 +27,32 @@ I'm a committed and detail-oriented **Full-Stack Developer** with hands-on exper
 
 ### 🛠️ Tech Stack
 
-#### 👩‍💻 Languages & Frameworks
+#### 👩‍💻 Languages & Frameworks  
 <p>
-  <img src="https://cdn.simpleicons.org/html5/E34F26" width="32" height="32" title="HTML5" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" width="32" height="32" title="CSS3" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="32" height="32" title="JavaScript" />
-  <img src="https://cdn.simpleicons.org/flutter/02569B" width="32" height="32" title="Flutter" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="32" height="32" title="Python" />
-  <img src="https://cdn.simpleicons.org/java/007396" width="32" height="32" title="Java" />
-  <img src="https://cdn.simpleicons.org/csharp/512BD4" width="32" height="32" title="C#" />
-  <img src="https://cdn.simpleicons.org/dotnet/5C2D91" width="32" height="32" title="ASP.NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="ASP.NET" width="40" />
 </p>
 
-#### 🗃️ Databases
+#### 🗃️ Databases  
 <p>
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="32" height="32" title="SQL Server" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="32" height="32" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" />
 </p>
 
-#### ⚙️ Tools & Platforms
+#### ⚙️ Tools & Platforms  
 <p>
-  <img src="https://cdn.simpleicons.org/git/F05032" width="32" height="32" title="Git" />
-  <img src="https://cdn.simpleicons.org/github/181717" width="32" height="32" title="GitHub" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="32" height="32" title="VS Code" />
-  <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" width="32" height="32" title="Visual Studio" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="32" height="32" title="Postman" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="32" height="32" title="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" />
 </p>
 
 ---
