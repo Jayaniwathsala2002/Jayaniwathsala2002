@@ -1,93 +1,117 @@
-<h1 align="center">Jayani Wathsala Jayasooriya</h1>
-<h3 align="center">Full-Stack Developer | Software Engineer | Clean Architecture Enthusiast</h3>
+<h1 align="center" style="font-family: sans-serif; color: #333;">
+  <span style="animation: fadeIn 1.5s ease-out;">Jayani Wathsala Jayasooriya</span>
+</h1>
+<h3 align="center" style="color: #555;">
+  Full‑Stack Developer | Software Engineer | Clean Architecture Advocate
+</h3>
 
 <p align="center">
-  <a href="https://github.com/Jayaniwathsala2002" target="_blank"><img src="https://cdn.simpleicons.org/github/181717" width="30" /></a>
-  <a href="https://www.linkedin.com/in/janu14/" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" /></a>
-  <a href="mailto:me.janu14@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" /></a>
-  <a href="https://www.instagram.com/ms.jayani_/" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" /></a>
+  <a href="https://github.com/Jayaniwathsala2002" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" class="icon-zoom" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/janu14/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" class="icon-zoom" alt="LinkedIn">
+  </a>
+  <a href="mailto:me.janu14@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="32" class="icon-zoom" alt="Email">
+  </a>
 </p>
+
+<style>
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.icon-zoom {
+  transition: transform 0.3s ease;
+}
+.icon-zoom:hover {
+  transform: scale(1.2);
+}
+.tech-icon {
+  width: 32px;
+  margin: 8px;
+  opacity: 0.8;
+  transition: opacity 0.3s;
+}
+.tech-icon:hover {
+  opacity: 1;
+}
+.section-title {
+  font-size: 1.3em;
+  color: #444;
+  margin: 1em 0 0.5em;
+}
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+</style>
 
 ---
 
-### 🧭 Summary
+### 🧭 Professional Summary
 
-Experienced Full-Stack Developer with strong problem-solving skills and solid understanding of software engineering principles. Specialized in clean code, scalable systems, and intuitive UI/UX. Passionate about system architecture, backend engineering, and cross-platform app development.
+Senior Full-Stack Developer with deep experience in building scalable solutions and clean architectures. Skilled in cross-platform development, backend APIs, and modern deployment workflows. Focused on maintainability, code quality, and reliable user experiences.
 
 ---
 
 ### 🛠️ Core Technologies
 
-#### Languages
-<p>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="30" title="JavaScript" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="30" title="TypeScript" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="30" title="Python" />
-  <img src="https://cdn.simpleicons.org/java/007396" width="30" title="Java" />
-  <img src="https://cdn.simpleicons.org/csharp/512BD4" width="30" title="C#" />
-</p>
+#### Frontend & Languages  
+<div class="container">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" class="tech-icon">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" class="tech-icon">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" class="tech-icon">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" class="tech-icon">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" class="tech-icon">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" class="tech-icon">
+</div>
 
-#### Frontend
-<p>
-  <img src="https://cdn.simpleicons.org/html5/E34F26" width="30" title="HTML5" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" width="30" title="CSS3" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="30" title="Bootstrap" />
-  <img src="https://cdn.simpleicons.org/flutter/02569B" width="30" title="Flutter" />
-</p>
+#### Backend & APIs  
+<div class="container">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" class="tech-icon">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" class="tech-icon">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" class="tech-icon">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" class="tech-icon">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" class="tech-icon">
+</div>
 
-#### Backend & APIs
-<p>
-  <img src="https://cdn.simpleicons.org/dotnet/5C2D91" width="30" title="ASP.NET Core" />
-  <img src="https://cdn.simpleicons.org/node.js/339933" width="30" title="Node.js" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="30" title="Postman" />
-</p>
+#### Databases  
+<div class="container">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" class="tech-icon">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" class="tech-icon">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" class="tech-icon">
+</div>
 
-#### Databases
-<p>
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="30" title="MySQL" />
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="30" title="SQL Server" />
-  <img src="https://cdn.simpleicons.org/sqlite/003B57" width="30" title="SQLite" />
-</p>
-
-#### Tools & IDEs
-<p>
-  <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" width="30" title="Visual Studio" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="30" title="VS Code" />
-  <img src="https://cdn.simpleicons.org/git/F05032" width="30" title="Git" />
-  <img src="https://cdn.simpleicons.org/github/181717" width="30" title="GitHub" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="30" title="Figma" />
-</p>
+#### DevOps & Cloud  
+<div class="container">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" class="tech-icon">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" class="tech-icon">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" class="tech-icon">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="Netlify" class="tech-icon">
+</div>
 
 ---
 
-### 🧠 Focus Areas
+### 🎯 Current Focus & Professional Goals
 
-- RESTful API Design and Integration  
-- Secure .NET Core Web APIs  
-- Real-time App Interfaces with Flutter  
-- Clean Architecture and Modular Design  
-- Performance Optimization  
-- CI/CD Practices (GitHub Actions, Azure Pipelines)
+- Designing robust, modular APIs with ASP.NET Core and Node.js  
+- Building responsive frontend apps using React and Flutter  
+- Implementing continuous integration & deployment pipelines  
+- Writing maintainable, test‑driven, and secure code
 
 ---
 
-### 📈 Current Goals
-
-- Master advanced .NET architecture (DDD, CQRS)  
-- Explore Docker and container-based deployments  
-- Improve test coverage and automation  
-- Enhance mobile responsiveness and accessibility
-
----
-
-### 📬 Contact Me
+### 📬 Contact & Professional Links
 
 - 📧 Email: me.janu14@gmail.com  
-- 🌐 LinkedIn: [linkedin.com/in/janu14](https://www.linkedin.com/in/janu14/)  
+- 🔗 LinkedIn: [linkedin.com/in/janu14](https://www.linkedin.com/in/janu14/)  
 - 🐙 GitHub: [Jayaniwathsala2002](https://github.com/Jayaniwathsala2002)
 
 ---
 
-<p align="center">
-  <em>“Great systems are built with clean code, discipline, and relentless learning.”</em>
+<p align="center" style="color:#777;">
+  <em>“Clean architecture, efficient delivery, and principled code.”</em>
 </p>
